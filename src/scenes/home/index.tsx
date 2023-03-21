@@ -43,9 +43,8 @@ const Home = ({ setSelectedPage }: Props) => {
                         </div>
                     </div>
                     <p className="mt-8 text-sm">
-                        Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
-                        Studios to get the Body Shapes That you Dream of.. Get Your Dream
-                        Body Now.
+                    Edulife helps students to achieve their goals with the easist and the cheapest way. 
+                    If you want to be part of this family. You can contact with us.
                     </p>
                 </motion.div>
                 {/* BUTTONS */}
